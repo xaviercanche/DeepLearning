@@ -7,4 +7,10 @@ Introducción a los algoritmos de aprendizaje profundo y aplicaciones:
 
 ## Resultados
 
-|Hola|Mundo|
+| Hola | Mundo |
+| ---         |     ---      |
+| <img src="./demo_image/demo_1.png" width="300"> | 2 |
+
+```
+python run.py
+```
